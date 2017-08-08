@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "977973587002",
+    "firebase_url": "https://otpauth-4e1ac.firebaseio.com",
+    "project_id": "otpauth-4e1ac",
+    "storage_bucket": "otpauth-4e1ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977973587002:android:6cc9e0b93b92a1da",
+        "android_client_info": {
+          "package_name": "com.mes.tuts.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977973587002-vnmpnt6osaitj5m88ueb6ktt0buod5tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mes.tuts.firebase",
+            "certificate_hash": "be808f1e017aa7a589872334b8c86ed32892e491"
+          }
+        },
+        {
+          "client_id": "977973587002-pu6pq87c19jg89sqtgdi96tntu5q14ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF0prR_ihyrc8L--h3mk8t4_gUy4GOxP8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977973587002-pu6pq87c19jg89sqtgdi96tntu5q14ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

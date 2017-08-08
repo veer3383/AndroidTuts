@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "571610396944",
+    "firebase_url": "https://sample-71f30.firebaseio.com",
+    "project_id": "sample-71f30",
+    "storage_bucket": "sample-71f30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571610396944:android:f075f5f0a307e1fd",
+        "android_client_info": {
+          "package_name": "com.techweek.chowgule.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571610396944-n9fi28g79744rt6olff3tu9tgei4monq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techweek.chowgule.myapplication",
+            "certificate_hash": "be808f1e017aa7a589872334b8c86ed32892e491"
+          }
+        },
+        {
+          "client_id": "571610396944-qp0h5c216kvo19tet74ih12aau5cqt7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo5xEBrcI4vAwUuZKcf181F-r4MZt0HCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571610396944-qp0h5c216kvo19tet74ih12aau5cqt7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
